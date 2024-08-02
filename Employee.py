@@ -19,3 +19,6 @@ print("Name:", employee2.name)
 print("Date of Join:", employee2.date_of_join)
 print("Designation:", employee2.designation)
 print("Salary:", employee2.salary)
+
+output :-
+![pro1](https://github.com/user-attachments/assets/0d9fb83f-0ebf-42fa-9b22-d517037e1dbc)
