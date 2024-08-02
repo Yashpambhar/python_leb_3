@@ -19,3 +19,6 @@ print(emp.mobile_no)
 print(emp.emp_name)
 print(emp.designation)
 print(emp.salary)
+
+output :-
+![pro2](https://github.com/user-attachments/assets/00a68779-27fc-424e-aab6-98b7260ab1b7)
