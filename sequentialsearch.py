@@ -13,3 +13,6 @@ if result != -1:
     print(f"Element {search_element} found at index {result}.")
 else:
     print(f"Element {search_element} not found.")
+
+output :-
+![pro4](https://github.com/user-attachments/assets/ccc05b32-3f1c-4992-8fea-8907f2ec4415)
