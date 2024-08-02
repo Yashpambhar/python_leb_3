@@ -16,3 +16,6 @@ result_subtraction = calc.subtract()
 
 print("Addition Result:", result_addition)
 print("Subtraction Result:", result_subtraction)
+
+output :-
+![pro5](https://github.com/user-attachments/assets/20b930db-ab42-4e7e-ba7f-4a42cb456cf1)
